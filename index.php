@@ -1,4 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Documento desde GitHub</title>
+</head>
+<body>
+    
+
+<h1>Para probar</h1>
 <?php
+
+
     /* IF --- ELSEIF --- ELSE */
     $valor = !false;
 
@@ -38,3 +51,8 @@
     $test2 = $comprobacion ? "OK" : "ERROR";
 
     echo "<br>".$test2;
+
+?>
+
+</body>
+</html>
